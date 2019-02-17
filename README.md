@@ -10,13 +10,13 @@ I started taking lessons in november 2018 with [Dmytro Sukhovienko](https://www.
 
 ## Current practice routine
 
-1. Play C major scale (4 octaves)
-2. Play C major arpeggio (4 octaves)
-3. Play A minor harmonic scale (4 octaves)
-4. Play A minor melodic scale (4 octaves)
-5. Play A minor arpeggio (4 octaves)
+1. Play C major scale
+2. Play C major arpeggio
+3. Play A minor harmonic scale
+4. Play A minor melodic scale
+5. Play A minor arpeggio
 6. Play E major scale
-7. Play E major arpeggio three times without mistakes (2 octaves)
+7. Play E major arpeggio
 8. Work on piece(s)
 
 ## Timeline
