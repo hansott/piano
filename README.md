@@ -1,6 +1,6 @@
 # Piano
 
-I decided that I wanted to learn to play the piano at 24 years old. I started taking lessons in november 2018 with [Dmytro Sukhovienko](https://www.dmytro.net/). In this repository I'm going to keep track of my progress. Feel free to follow along!
+I started taking lessons in november 2018 with [Dmytro Sukhovienko](https://www.dmytro.net/). In this repository I'm going to keep track of my progress. Feel free to follow along!
 
 ## Current repertoire
 
