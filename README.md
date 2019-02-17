@@ -26,7 +26,7 @@ I started taking lessons in november 2018 with [Dmytro Sukhovienko](https://www.
 #### February
 
 New pieces:
-- [Scott Joplin: Peacherine Rag]
+- Scott Joplin: Peacherine Rag
 
 New scales:
 - E major
@@ -44,7 +44,7 @@ New arpeggios:
 #### December
 
 New pieces:
-- [Mozart: Rondo Alla Turca in A major, Piano Sonata No. 11 K. 331 3rd Movement](https://www.youtube.com/watch?v=A_THdzBnHy0)
+- Mozart: Rondo Alla Turca
 
 New scales:
 - A minor melodic
@@ -56,7 +56,7 @@ New arpeggios:
 #### November
 
 New pieces:
-- [Chopin: Prelude in E minor, op. 28 no. 4](https://www.youtube.com/watch?v=90wBhBZjAUQ)
+- Chopin: Prelude (Op. 28 No. 4)
 
 New scales:
 - C major
