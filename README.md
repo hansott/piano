@@ -23,6 +23,11 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ### 2019
 
+#### March
+
+New pieces:
+- Chopin: Nocturne No. 20
+
 #### February
 
 New pieces:
