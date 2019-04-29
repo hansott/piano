@@ -17,11 +17,21 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 5. Play A minor arpeggio
 6. Play E major scale
 7. Play E major arpeggio
-8. Work on piece(s)
+8. Play G major scale
+9. Play G major arpeggio
+10. Work on piece(s)
 
 ## Timeline
 
 ### 2019
+
+#### April
+
+New scales:
+- G major
+
+New arpeggios:
+- G major
 
 #### March
 
