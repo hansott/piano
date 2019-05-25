@@ -4,9 +4,10 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ## Current repertoire
 
-1. [Chopin: Prelude (Op. 28 No. 4)](https://www.youtube.com/watch?v=90wBhBZjAUQ)
+1. [Chopin: Prelude Op. 28 No. 4](https://www.youtube.com/watch?v=90wBhBZjAUQ)
 2. [Mozart: Rondo Alla Turca](https://www.youtube.com/watch?v=A_THdzBnHy0)
 3. [Scott Joplin: Peacherine Rag](https://www.youtube.com/watch?v=Z8c8eFXNolg)
+4. [Chopin: Nocturne No. 20](https://www.youtube.com/watch?v=OvoObzPGXZ0)
 
 ## Current practice routine
 
@@ -24,6 +25,11 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 ## Timeline
 
 ### 2019
+
+#### May
+
+New pieces:
+- Sergej Rachmaninov: Morceau de fantaisie (G minor)
 
 #### April
 
