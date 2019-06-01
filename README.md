@@ -4,10 +4,10 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ## Current repertoire
 
-1. [Chopin: Prelude Op. 28 No. 4](https://www.youtube.com/watch?v=90wBhBZjAUQ)
-2. [Mozart: Rondo Alla Turca](https://www.youtube.com/watch?v=A_THdzBnHy0)
-3. [Scott Joplin: Peacherine Rag](https://www.youtube.com/watch?v=Z8c8eFXNolg)
-4. [Chopin: Nocturne No. 20](https://www.youtube.com/watch?v=OvoObzPGXZ0)
+1. [Chopin: Prelude Op. 28 No. 4 (E minor)](https://www.youtube.com/watch?v=90wBhBZjAUQ)
+2. [Mozart: Rondo Alla Turca (A major)](https://www.youtube.com/watch?v=A_THdzBnHy0)
+3. [Scott Joplin: Peacherine Rag (Eb major)](https://www.youtube.com/watch?v=Z8c8eFXNolg)
+4. [Chopin: Nocturne No. 20 (C# minor)](https://www.youtube.com/watch?v=OvoObzPGXZ0)
 
 ## Current practice routine
 
@@ -42,12 +42,12 @@ New arpeggios:
 #### March
 
 New pieces:
-- Chopin: Nocturne No. 20
+- Chopin: Nocturne No. 20 (C# minor)
 
 #### February
 
 New pieces:
-- Scott Joplin: Peacherine Rag
+- Scott Joplin: Peacherine Rag (Eb major)
 
 New scales:
 - E major
@@ -65,7 +65,7 @@ New arpeggios:
 #### December
 
 New pieces:
-- Mozart: Rondo Alla Turca
+- Mozart: Rondo Alla Turca (A major)
 
 New scales:
 - A minor melodic
@@ -77,7 +77,7 @@ New arpeggios:
 #### November
 
 New pieces:
-- Chopin: Prelude (Op. 28 No. 4)
+- Chopin: Prelude Op. 28 No. 4 (E minor)
 
 New scales:
 - C major
