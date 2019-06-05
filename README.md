@@ -20,7 +20,9 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 7. Play E major arpeggio
 8. Play G major scale
 9. Play G major arpeggio
-10. Work on piece(s)
+10. Play A major scale
+11. Play A major arpeggio
+12. Work on piece(s)
 
 ## Timeline
 
@@ -30,6 +32,12 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 New pieces:
 - Sergej Rachmaninov: Morceau de fantaisie (G minor)
+
+New scales:
+- A major
+
+New arpeggios:
+- A major
 
 #### April
 
