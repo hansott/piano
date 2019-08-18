@@ -8,6 +8,7 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 2. [Mozart: Rondo Alla Turca (A major)](https://www.youtube.com/watch?v=A_THdzBnHy0)
 3. [Scott Joplin: Peacherine Rag (Eb major)](https://www.youtube.com/watch?v=Z8c8eFXNolg)
 4. [Chopin: Nocturne No. 20 (C# minor)](https://www.youtube.com/watch?v=OvoObzPGXZ0)
+5. [Rachmaninov: Morceau de fantaisie (G minor)](https://www.youtube.com/watch?v=p8KIhwVFxGI)
 
 ## Current practice routine
 
@@ -27,6 +28,11 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 ## Timeline
 
 ### 2019
+
+### August
+
+New pieces:
+- Debussy: Rêverie (F major)
 
 #### May
 
