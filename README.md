@@ -25,11 +25,20 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 11. Play A major arpeggio
 12. Work on piece(s)
 
-## Timeline
+## Tips
+
+* Practice every day you can, even if it's just playing scales or a piece you already know
+* Always try to sing melodies to know where to slow down (like taking a breath)
+* Try sightreading new material every day, preferably material you don't know by ear
+* Scales and arpeggios are important, practice them every day
+* Every sign on sheet music is important, read carefully
+* Play a measure over and over until you nail it, go the next one and repeat, then practice the transitions between measures
+
+## 📅 Timeline
 
 ### 2019
 
-### August
+#### August
 
 New pieces:
 - Debussy: Rêverie (F major)
