@@ -9,7 +9,7 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 3. [Scott Joplin: Peacherine Rag (Eb major)](https://www.youtube.com/watch?v=Z8c8eFXNolg)
 4. [Chopin: Nocturne No. 20 (C# minor)](https://www.youtube.com/watch?v=OvoObzPGXZ0)
 5. [Rachmaninov: Morceau de fantaisie (G minor)](https://www.youtube.com/watch?v=p8KIhwVFxGI)
-6. [Rêverie (F major)](https://www.youtube.com/watch?v=Hdj147NcjS0)
+6. [Debussy: Rêverie (F major)](https://www.youtube.com/watch?v=Hdj147NcjS0)
 
 ## 🏋️‍♀️ Current practice routine
 
