@@ -34,8 +34,8 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 * Scales and arpeggios are important, practice them every day
 * Every sign on sheet music is important, read carefully
 * Play a measure over and over until you nail it, go the next one and repeat, then practice the transitions between measures
-* Practice the right notes, don't think you'll refine it later. Do it right from the first time. Go slow, really! Use a metronome. When performing, the tempo should be right on the edge of falling apart.
-* Practice the hard parts first, in order to discover the tempo that's possible.
+* Practice the right notes, don't think you'll refine it later. Do it right from the first time. Go slow, really! Use a metronome. When performing, the tempo should be right on the edge of falling apart
+* Practice the hard parts first, in order to discover the tempo that's possible
 
 ## 📅 Timeline
 
