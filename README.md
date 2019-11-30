@@ -42,8 +42,12 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ### 2019
 
+#### November
 
-### October
+Achievements:
+- 🥳 1 year of piano lessons
+
+#### October
 
 New pieces
 - Sergej Rachmaninov: Prelude Op. 23 No 1 (F# minor)
