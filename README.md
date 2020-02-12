@@ -8,8 +8,9 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 2. [Mozart: Rondo Alla Turca (A major)](https://www.youtube.com/watch?v=A_THdzBnHy0)
 3. [Scott Joplin: Peacherine Rag (Eb major)](https://www.youtube.com/watch?v=Z8c8eFXNolg)
 4. [Chopin: Nocturne No. 20 (C# minor)](https://www.youtube.com/watch?v=OvoObzPGXZ0)
-5. [Rachmaninov: Morceau de fantaisie (G minor)](https://www.youtube.com/watch?v=p8KIhwVFxGI)
+5. [Rachmaninoff: Morceau de fantaisie (G minor)](https://www.youtube.com/watch?v=p8KIhwVFxGI)
 6. [Debussy: Rêverie (F major)](https://www.youtube.com/watch?v=Hdj147NcjS0)
+7. [Rachmaninoff: Prelude Op. 23 No. 1 (F# minor)](https://www.youtube.com/watch?v=-BA6YsMC18U)
 
 ## 🏋️‍♀️ Current practice routine
 
@@ -40,6 +41,13 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ## 📅 Timeline
 
+### 2020
+
+#### February
+
+New pieces
+- Franz Liszt: Consolations No. 3 (Db major)
+
 ### 2019
 
 #### November
@@ -50,7 +58,7 @@ Achievements:
 #### October
 
 New pieces
-- Sergej Rachmaninov: Prelude Op. 23 No 1 (F# minor)
+- Rachmaninoff: Prelude Op. 23 No. 1 (F# minor)
 
 #### August
 
@@ -60,7 +68,7 @@ New pieces:
 #### May
 
 New pieces:
-- Sergej Rachmaninov: Morceau de fantaisie (G minor)
+- Rachmaninoff: Morceau de fantaisie (G minor)
 
 New scales:
 - A major
