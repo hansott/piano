@@ -55,7 +55,7 @@ I discovered this piece several years ago. Even after hearing it more than a [~1
 
 #### February
 
-- Franz Liszt: Consolations No. 3 (Db major)
+- Started learning Consolations No. 3 (Db major) - Franz Liszt
 
 #### January
 
@@ -69,13 +69,13 @@ I discovered this piece several years ago. Even after hearing it more than a [~1
 
 #### October
 
-- Rachmaninoff: Prelude Op. 23 No. 1 (F# minor)
+- Started learning Prelude Op. 23 No. 1 (F# minor) - Rachmaninoff
 
 #### September
 
 #### August
 
-- Debussy: Rêverie (F major)
+- Started learning Rêverie (F major) - Debussy
 
 #### July
 
@@ -83,17 +83,17 @@ I discovered this piece several years ago. Even after hearing it more than a [~1
 
 #### May
 
-- Rachmaninoff: Morceau de fantaisie (G minor)
+- Started learning Morceau de fantaisie (G minor) - Rachmaninoff
 
 #### April
 
 #### March
 
-- Chopin: Nocturne No. 20 (C# minor)
+- Started learning Nocturne No. 20 (C# minor) - Chopin
 
 #### February
 
-- Scott Joplin: Peacherine Rag (Eb major)
+- Started learning Peacherine Rag (Eb major) - Scott Joplin
 
 #### January
 
@@ -101,8 +101,8 @@ I discovered this piece several years ago. Even after hearing it more than a [~1
 
 #### December
 
-- Mozart: Rondo Alla Turca (A major)
+- Started learning Rondo Alla Turca (A major) - Mozart
 
 #### November
 
-- Chopin: Prelude Op. 28 No. 4 (E minor)
+- Started learning Prelude Op. 28 No. 4 (E minor) - Chopin
