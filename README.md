@@ -55,7 +55,6 @@ I discovered this piece several years ago. Even after hearing it more than a [~1
 
 #### February
 
-New pieces
 - Franz Liszt: Consolations No. 3 (Db major)
 
 #### January
@@ -66,19 +65,16 @@ New pieces
 
 #### November
 
-Achievements:
 - 🥳 1 year of piano lessons
 
 #### October
 
-New pieces
 - Rachmaninoff: Prelude Op. 23 No. 1 (F# minor)
 
 #### September
 
 #### August
 
-New pieces:
 - Debussy: Rêverie (F major)
 
 #### July
@@ -87,62 +83,26 @@ New pieces:
 
 #### May
 
-New pieces:
 - Rachmaninoff: Morceau de fantaisie (G minor)
-
-New scales:
-- A major
-
-New arpeggios:
-- A major
 
 #### April
 
-New scales:
-- G major
-
-New arpeggios:
-- G major
-
 #### March
 
-New pieces:
 - Chopin: Nocturne No. 20 (C# minor)
 
 #### February
 
-New pieces:
 - Scott Joplin: Peacherine Rag (Eb major)
 
-New scales:
-- E major
-
-New arpeggios:
-- E major
-
 #### January
-
-New arpeggios:
-- A minor
 
 ### 2018
 
 #### December
 
-New pieces:
 - Mozart: Rondo Alla Turca (A major)
-
-New scales:
-- A minor melodic
-- A minor harmonic
-
-New arpeggios:
-- C major
 
 #### November
 
-New pieces:
 - Chopin: Prelude Op. 28 No. 4 (E minor)
-
-New scales:
-- C major
