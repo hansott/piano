@@ -39,6 +39,13 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 * Practice the hard parts first, in order to discover the tempo that's possible
 * Do research on the composer of the piece you're learning. You should listen to pieces that are not solo piano. e.g. For Mozart, you can listen to his requiem. Those works will help you understand the composer.
 
+## 🎯 Pieces I hope to play some day
+
+1. [Rachmaninoff: Prelude Op. 23 No. 5 (G minor)](https://www.youtube.com/watch?v=9idfQVkqKyw)
+2. [Rachmaninoff: Etude-Tableaux Op. 33 No. 5](https://www.youtube.com/watch?v=DDjKAySWrkU)
+3. [Rachmaninoff: Elegie Op.1 No. 3 (Eb minor)](https://www.youtube.com/watch?v=Wx3ZTAQ6boo)
+4. [Franz Liszt: Liebestraum No. 3 (Ab major)](https://www.youtube.com/watch?v=InKk1aowFZ4)
+
 ## 📅 Timeline
 
 ### 2020
