@@ -58,7 +58,11 @@ I discovered this piece several years ago. Even after hearing it more than a [~1
 New pieces
 - Franz Liszt: Consolations No. 3 (Db major)
 
+#### January
+
 ### 2019
+
+#### December
 
 #### November
 
@@ -70,10 +74,16 @@ Achievements:
 New pieces
 - Rachmaninoff: Prelude Op. 23 No. 1 (F# minor)
 
+#### September
+
 #### August
 
 New pieces:
 - Debussy: Rêverie (F major)
+
+### July
+
+### June
 
 #### May
 
