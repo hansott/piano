@@ -53,6 +53,10 @@ I discovered this piece several years ago. Even after hearing it more than a [~1
 
 ### 2020
 
+#### March
+
+- Started learning Valse Op. 64 No. 2 (C# minor) - Chopin
+
 #### February
 
 - Started learning Consolations No. 3 (Db major) - Franz Liszt
