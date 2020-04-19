@@ -100,6 +100,8 @@ I discovered this piece several years ago. Even after hearing it more than a [~1
 
 - Started learning Peacherine Rag (Eb major) - Scott Joplin
 
+Challenges: jumps in left hand, syncopation and pedaling
+
 #### January
 
 ### 2018
@@ -108,6 +110,10 @@ I discovered this piece several years ago. Even after hearing it more than a [~1
 
 - Started learning Rondo Alla Turca (A major) - Mozart
 
+Challenges: articulation, staying in tempo, dynamics, memorizing that long melody line, playing octaves (with right fingering) and playing arpeggiated chords
+
 #### November
 
 - Started learning Prelude Op. 28 No. 4 (E minor) - Chopin
+
+Challenges: playing chords softly, use the right fingering, dynamics, staying in tempo and playing turns (~)
