@@ -58,9 +58,13 @@ I discovered this piece several years ago. Even after hearing it more than a [~1
 
 - Started learning Valse Op. 64 No. 2 (C# minor) - Chopin
 
+Challenges: chromatic lines
+
 #### February
 
 - Started learning Consolations No. 3 (Db major) - Franz Liszt
+
+Challenges: polyrhythms
 
 #### January
 
