@@ -38,6 +38,7 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 * Practice the right notes, don't think you'll refine it later. Do it right from the first time. Go slow, really! Use a metronome. When performing, the tempo should be right on the edge of falling apart
 * Practice the hard parts first, in order to discover the tempo that's possible
 * Do research on the composer of the piece you're learning. You should listen to pieces that are not solo piano. e.g. For Mozart, you can listen to his requiem. Those works will help you understand the composer.
+* Learn music theory: scales, circle of fifths, chords, key changes, modes, ... You will start to notice patterns when learning a new piece, crucial for memorizing music efficiently. Trust me. You can't learn this stuff in one day, study one concept at a time, do small exercises and give it some time.
 
 ## 🎯 Pieces I hope to play some day
 
