@@ -43,7 +43,7 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ## 📚 Resources
 
-* Any YouTube video from https://www.youtube.com/user/cedarvillemusic
+* Any YouTube video from [cedarvillemusic](https://www.youtube.com/user/cedarvillemusic)
 * [Open Music Theory](http://openmusictheory.com/contents.html)
 * [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/)
 
