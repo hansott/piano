@@ -50,9 +50,6 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 ## 🎯 Pieces I hope to play some day
 
 1. [Rachmaninoff: Prelude Op. 23 No. 5 (G minor)](https://www.youtube.com/watch?v=9idfQVkqKyw)
-
-I discovered this piece several years ago. Even after hearing it more than a [~100 times](https://www.last.fm/user/hansott/library/tracks), I can't get enough of it. The middle section is so beautiful.
-
 2. [Rachmaninoff: Etude-Tableaux Op. 33 No. 5](https://www.youtube.com/watch?v=DDjKAySWrkU)
 3. [Rachmaninoff: Elegie Op.1 No. 3 (Eb minor)](https://www.youtube.com/watch?v=Wx3ZTAQ6boo)
 4. [Franz Liszt: Liebestraum No. 3 (Ab major)](https://www.youtube.com/watch?v=InKk1aowFZ4)
