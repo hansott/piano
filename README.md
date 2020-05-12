@@ -41,6 +41,12 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 * Do research on the composer of the piece you're learning. You should listen to pieces that are not solo piano. e.g. For Mozart, you can listen to his requiem. Those works will help you understand the composer.
 * Learn music theory: scales, circle of fifths, chords, key changes, modes, ... You will start to notice patterns when learning a new piece, crucial for memorizing music efficiently. Trust me. You can't learn this stuff in one day, study one concept at a time, do small exercises and give it some time.
 
+## 📚 Resources
+
+* Any YouTube video from https://www.youtube.com/user/cedarvillemusic
+* [Open Music Theory](http://openmusictheory.com/contents.html)
+* [Fundamentals of Piano Practice](https://fundamentals-of-piano-practice.readthedocs.io/)
+
 ## 🎯 Pieces I hope to play some day
 
 1. [Rachmaninoff: Prelude Op. 23 No. 5 (G minor)](https://www.youtube.com/watch?v=9idfQVkqKyw)
