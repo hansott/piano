@@ -12,6 +12,7 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 6. [Debussy: Rêverie (F major)](https://www.youtube.com/watch?v=Hdj147NcjS0)
 7. [Rachmaninoff: Prelude Op. 23 No. 1 (F# minor)](https://www.youtube.com/watch?v=-BA6YsMC18U)
 8. [Franz Liszt: Consolations No. 3 (Db major)](https://www.youtube.com/watch?v=hLXOOeMKmJc)
+9. [Chopin: Valse Op. 64 No. 2 (C# minor)](https://www.youtube.com/watch?v=WVsGf1ag6Us)
 
 ## 🏋️‍♀️ Current practice routine
 
@@ -57,6 +58,17 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 ## 📅 Timeline
 
 ### 2020
+
+#### July
+
+- Started learning Etude Op. 849 No. 9 - Czerny
+- Started learning La fille aux cheveux de lin - Debussy
+
+#### June
+
+#### May
+
+#### April
 
 #### March
 
