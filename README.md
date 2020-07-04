@@ -61,10 +61,10 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 #### July
 
+#### June
+
 - Started learning Etude Op. 849 No. 9 - Czerny
 - Started learning La fille aux cheveux de lin - Debussy
-
-#### June
 
 #### May
 
