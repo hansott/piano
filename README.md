@@ -61,6 +61,8 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ### 2020
 
+#### September
+
 #### August
 
 #### July
