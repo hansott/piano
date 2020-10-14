@@ -2,6 +2,8 @@
 
 In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https://www.dmytro.net/). In this repository I'm going to keep track of my progress. Feel free to follow along!
 
+[My classical guitar progress can be found here](https://github.com/hansott/guitar)
+
 ## 🎼 Current repertoire
 
 1. [Chopin: Prelude Op. 28 No. 4 (E minor)](https://www.youtube.com/watch?v=90wBhBZjAUQ)
