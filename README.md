@@ -63,6 +63,10 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ### 2020
 
+#### October
+
+- Started learning Prelude in Jazz style Op. 53 No. 3 - Kapustin
+
 #### September
 
 #### August
