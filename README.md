@@ -60,7 +60,17 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ## 📅 Timeline
 
+### 2021
+
+#### February
+
+- Started learning Fantasia No. 3 - Mozart
+
+#### January
+
 ### 2020
+
+#### December
 
 #### November
 
