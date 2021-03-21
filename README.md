@@ -64,6 +64,10 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ### 2021
 
+#### March
+
+- Vocalise Op. 34 No. 14 - Rachmaninoff
+
 #### February
 
 - Started learning Fantasia No. 3 - Mozart
