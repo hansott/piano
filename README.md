@@ -20,6 +20,7 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 12. [Kapustin: Prelude in Jazz style Op. 53 No. 3 (G major)](https://www.youtube.com/watch?v=I7lWwXk6TV8&t=225s)
 13. [Rachmaninoff: Prelude Op. 23 No. 5 (G minor)](https://www.youtube.com/watch?v=g7RVYejgADw)
 14. [Mozart: Fantasia No. 3 (D minor)](https://www.youtube.com/watch?v=Kvk-X5TrCDw)
+15. [Vocalise Op. 34 No. 14 - Rachmaninoff](https://www.youtube.com/watch?v=xlWBkhxVxg8)
 
 ## 🏋️‍♀️ Current practice routine
 
@@ -65,11 +66,15 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ### 2021
 
+#### May
+
 #### April
+
+- Started learning Sonata K. 1 - Scarlatti
 
 #### March
 
-- Vocalise Op. 34 No. 14 - Rachmaninoff
+- Started learning Vocalise Op. 34 No. 14 - Rachmaninoff
 
 #### February
 
