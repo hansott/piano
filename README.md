@@ -68,6 +68,10 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 #### May
 
+#### June
+
+- Started learning Lieder ohne Worte Op. 67 No. 2 - Mendelssohn
+
 #### April
 
 - Started learning Sonata K. 1 - Scarlatti
