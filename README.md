@@ -21,6 +21,7 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 13. [Rachmaninoff: Prelude Op. 23 No. 5 (G minor)](https://www.youtube.com/watch?v=g7RVYejgADw)
 14. [Mozart: Fantasia No. 3 (D minor)](https://www.youtube.com/watch?v=Kvk-X5TrCDw)
 15. [Vocalise Op. 34 No. 14 - Rachmaninoff](https://www.youtube.com/watch?v=xlWBkhxVxg8)
+16. [Lieder ohne Worte Op. 67 No. 2 - Mendelssohn](https://www.youtube.com/watch?v=i11IJnf5HFw)
 
 ## 🏋️‍♀️ Current practice routine
 
@@ -66,11 +67,21 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ### 2021
 
-#### May
+#### October
+
+#### September
+
+- Started learning Prelude (B minor) - Bach/Siloti
+
+#### August
+
+#### July
 
 #### June
 
 - Started learning Lieder ohne Worte Op. 67 No. 2 - Mendelssohn
+
+#### May
 
 #### April
 
