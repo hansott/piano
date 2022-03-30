@@ -24,6 +24,8 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 16. [Lieder ohne Worte Op. 67 No. 2 - Mendelssohn](https://www.youtube.com/watch?v=i11IJnf5HFw)
 17. [Prelude (B minor) - Bach/Siloti](https://www.youtube.com/watch?v=Yu06WnXlPCY)
 18. [Menuett (Arr. by Wilhelm Kempff) - Handel](https://www.youtube.com/watch?v=4wXS_7qUwTs)
+19. [Doctor Gradus ad Parnassum - Debussy](https://www.youtube.com/watch?v=iEQWBu5CCks)
+20. [Prelude Op. 3 No. 2 - Rachmaninoff](https://www.youtube.com/watch?v=YHmuu2SQ824)
 
 ## 🏋️‍♀️ Current practice routine
 
@@ -69,6 +71,14 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 
 ### 2022
 
+#### March
+
+- Started learning Etude Op. 2 No. 1 - Scriabin
+
+#### February
+
+- Started learning Prelude Op. 3 No. 2 - Rachmaninoff
+
 #### January
 
 ### 2021
@@ -78,6 +88,8 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 - Started learning Doctor Gradus ad Parnassum - Debussy
 
 #### November
+
+- Started learning Menuett (Arr. by Wilhelm Kempff) - Handel
 
 #### October
 
