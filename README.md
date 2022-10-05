@@ -27,21 +27,6 @@ In november 2018 I started taking piano lessons from [Dmytro Sukhovienko](https:
 19. [Doctor Gradus ad Parnassum - Debussy](https://www.youtube.com/watch?v=iEQWBu5CCks)
 20. [Prelude Op. 3 No. 2 - Rachmaninoff](https://www.youtube.com/watch?v=YHmuu2SQ824)
 
-## 🏋️‍♀️ Current practice routine
-
-1. Play C major scale
-2. Play C major arpeggio
-3. Play A minor harmonic scale
-4. Play A minor melodic scale
-5. Play A minor arpeggio
-6. Play E major scale
-7. Play E major arpeggio
-8. Play G major scale
-9. Play G major arpeggio
-10. Play A major scale
-11. Play A major arpeggio
-12. Work on piece(s)
-
 ## 💡 Tips
 
 * Practice every day you can, even if it's just playing scales or a piece you already know
